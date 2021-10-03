@@ -37,13 +37,7 @@ class _SearchScreenState extends State<LoginScreen> {
               fontSize: 40,
               fontWeight: FontWeight.bold,
               color: const Color(0xff000000),
-              // shadows: [
-              //   Shadow(
-              //     color: const Color(0xba000000),
-              //     offset: Offset(0, 3),
-              //     blurRadius: 6,
-              //   )
-              // ],
+              
             ),
             textAlign: TextAlign.left,
           ),
